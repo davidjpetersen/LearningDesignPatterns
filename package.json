@@ -1,0 +1,12 @@
+{
+  "name": "learning-design-patterns",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "^4.0.0",
+    "@astrojs/starlight": "^0.15.0"
+  }
+}
