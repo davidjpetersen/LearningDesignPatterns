@@ -2,13 +2,27 @@
 
 Investigation unfolds through iterative cycles of questioning, prototyping and testing.
 
-## Structure
+## Context
+Project-based courses merging research and design.
+
+## Problem
+Learners may generate solutions without evidence or iterate without clear inquiry.
+
+## Forces
+- Tension between exploration and building a viable product
+- Need for continuous feedback from stakeholders
+
+## Solution
+Integrate design with inquiry cycles:
 1. Frame a question or need
 2. Prototype possible solutions
 3. Test, gather feedback and refine
 
-## Use Cases
+## Resulting Context
+Students apply research mindsets while progressing toward functional prototypes.
+
+## Examples
 Design studios, engineering, social entrepreneurship
 
-## Strengths
-Blends inquiry with practical application
+## Diagram
+*(diagram placeholder)*
