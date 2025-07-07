@@ -9,7 +9,7 @@ new patterns, start from the template below:
 
 The patterns collected here group into five overarching modes of instructional organization:
 
-1. **Case Patterns** – Narrative scenarios that develop decision-making and critical thinking. Variants include Decision, Evaluation, Problem-Diagnosis and Outlier cases and are well suited to ethics, law, leadership, healthcare and business courses.
+1. **Case Patterns** – Narrative scenarios that develop decision-making and critical thinking. [See case-based subpatterns](case_patterns/README.md) such as Decision, Evaluation, Problem-Diagnosis, Narrative, Outlier, Role-Play and Longitudinal cases. These are well suited to ethics, law, leadership, healthcare and business courses.
 2. **Problem Patterns** – Problem‑based learning challenges where students investigate ill‑structured problems, test hypotheses and iterate on solutions. These fit STEM fields, analytics, diagnostics and engineering.
 3. **Practice Patterns** – Structured repetition to build fluency, from guided to independent work, drawing on techniques like distributed or deliberate practice. Common in quantitative disciplines.
 4. **Design Patterns** – Project‑based approaches that have learners prototype and iterate on artifacts through milestone‑driven cycles such as design thinking. Useful for instructional design, IT, education and business innovation.
