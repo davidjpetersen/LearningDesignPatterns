@@ -1,0 +1,8 @@
+:root {
+  --sl-text: #333;
+  --sl-background: #fafafa;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+}

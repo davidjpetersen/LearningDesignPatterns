@@ -1,19 +1,39 @@
 # LearningDesignPatterns
 
-This repository collects reusable patterns for instructional design. To create
-new patterns, start from the template below:
+This project hosts a collection of reusable instructional design patterns. The documentation site is built with [Astro](https://astro.build/) using the Starlight theme.
 
-- [Pattern Template](PATTERN_TEMPLATE.md)
-- [QA Checklist](QA_CHECKLIST.md)
+## Run Locally
 
-## Pattern Categories
+```bash
+npm install
+npm run dev
+```
 
-The patterns collected here group into five overarching modes of instructional organization:
+## Build
 
-1. **Case Patterns** – Narrative scenarios that develop decision-making and critical thinking. [See case-based subpatterns](case_patterns/README.md) such as Decision, Evaluation, Problem-Diagnosis, Narrative, Outlier, Role-Play and Longitudinal cases. These are well suited to ethics, law, leadership, healthcare and business courses.
-2. **Problem Patterns** – Problem‑based learning challenges where students investigate ill‑structured problems, test hypotheses and iterate on solutions. [See problem-based subpatterns](problem_patterns/README.md) useful in STEM fields, analytics, diagnostics and engineering.
-3. **Practice Patterns** – Structured repetition to build fluency, from guided to independent work, drawing on techniques like distributed or deliberate practice. Common in quantitative disciplines. [See practice-based subpatterns](practice_patterns/README.md) such as Procedural & Perceptual Practice, Deliberate Practice, Spaced Retrieval, Cognitive Apprenticeship, Community of Practice, Reflective Practice, Embodied & Experiential Practice and Contextualized & Authentic Practice
-4. **Design Patterns** – Project-based approaches that have learners prototype and iterate on artifacts through milestone-driven cycles such as design thinking. [See design-based subpatterns](design_patterns/README.md) including Challenge Briefs, Design Sprints, Concept-to-Product Studios, Human-Centered Redesigns and Design Critique Cycles. Useful for instructional design, IT, education and business innovation.
-5. **Inquiry Patterns** – Research-driven activities where students frame questions, gather evidence and construct understanding. [See inquiry-based subpatterns](inquiry_patterns/README.md) spanning Structured, Guided, Open, Dialogic, Comparative and Design-Driven inquiry.
+```bash
+npm run build
+```
 
-These categories can be mixed and matched at different levels—from full courses to smaller modules—and align with UbD and UDL principles.
+## Repository Structure
+
+```
+src/
+  content/docs/
+    design-patterns/
+    problem-patterns/
+    practice-patterns/
+    case-patterns/
+    inquiry-patterns/
+  assets/
+public/
+  assets/
+```
+
+## Add a New Pattern
+
+1. Copy `src/content/docs/pattern-template.md`.
+2. Update the frontmatter `title` and `description`.
+3. Complete each section in the template.
+4. Save the file in the matching category directory.
+5. Commit your changes and open a pull request.
