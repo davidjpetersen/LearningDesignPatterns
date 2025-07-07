@@ -13,6 +13,6 @@ The patterns collected here group into five overarching modes of instructional o
 2. **Problem Patterns** – Problem‑based learning challenges where students investigate ill‑structured problems, test hypotheses and iterate on solutions. [See problem-based subpatterns](problem_patterns/README.md) useful in STEM fields, analytics, diagnostics and engineering.
 3. **Practice Patterns** – Structured repetition to build fluency, from guided to independent work, drawing on techniques like distributed or deliberate practice. Common in quantitative disciplines.
 4. **Design Patterns** – Project-based approaches that have learners prototype and iterate on artifacts through milestone-driven cycles such as design thinking. [See design-based subpatterns](design_patterns/README.md) including Challenge Briefs, Design Sprints, Concept-to-Product Studios, Human-Centered Redesigns and Design Critique Cycles. Useful for instructional design, IT, education and business innovation.
-5. **Inquiry Patterns** – Research or simulation driven activities encouraging evidence‑based reasoning. Works well in social sciences, health, psychology, statistics and finance.
+5. **Inquiry Patterns** – Research-driven activities where students frame questions, gather evidence and construct understanding. [See inquiry-based subpatterns](inquiry_patterns/README.md) spanning Structured, Guided, Open, Dialogic, Comparative and Design-Driven inquiry.
 
 These categories can be mixed and matched at different levels—from full courses to smaller modules—and align with UbD and UDL principles.
